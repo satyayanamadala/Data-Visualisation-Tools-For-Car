@@ -1,7 +1,7 @@
 # Data-Visualisation-Tools-For-Car
 This project is a Data-Visualisation-Tools-For-Car designed to manage and analyze the sales of cars through different dealers and companies. It simulates a real-world dealership network with customers, companies, dealers, and car transactions.
 
-📁 Datasets Included
+# Datasets Included
 -Car.csv: Contains details of cars, including model, color, price, and associated company.
 
 -Company.csv: Lists car manufacturing companies.
@@ -12,7 +12,7 @@ This project is a Data-Visualisation-Tools-For-Car designed to manage and analyz
 
 -Sales.csv: Records each car sale, linking cars, customers, dealers, and sale dates.
 
-🗃️ Structure
+# Structure
 This is a relational database model:
 
 -Each car is linked to a company.
@@ -21,7 +21,7 @@ This is a relational database model:
 
 -All files are in CSV format and can be easily imported into any RDBMS (e.g., MySQL, PostgreSQL, SQLite).
 
-🧩 Possible Extensions
+#Possible Extensions
 -Add dealer rating or customer feedback mechanisms.
 
 -Build a dashboard using tools like Power BI, Tableau, or Python libraries (Plotly, Dash).
@@ -34,9 +34,12 @@ This is a relational database model:
 
   -Sales performance by dealer or city
 
-📌 Use Cases
+#📌 Use Cases
 -Educational projects for learning database design and analytics.
 
 -Sample dataset for practicing SQL joins and aggregations.
 
 -Prototype for building a dealership CRM system.
+# DashBoard
+![Screenshot 2025-05-05 231936](https://github.com/user-attachments/assets/35d0d1b0-1fc0-4dc5-819d-169d154ece88)
+
