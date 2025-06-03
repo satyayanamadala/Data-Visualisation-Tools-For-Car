@@ -1,0 +1,201 @@
+Car_ID,Model,Price,Engine_Type,Transmission,Color,Body_Style,Company_ID
+1,Maruti Suzuki Model 1,1378722.23,Electric,Manual,Grey,MPV,4
+2,Maruti Suzuki Model 2,2694561.27,Diesel,Automatic,Silver,Sedan,6
+3,Maruti Suzuki Model 3,2486205.77,Hybrid,Automatic,Grey,MPV,3
+4,Maruti Suzuki Model 4,1691812.69,Hybrid,Automatic,Black,MPV,1
+5,Maruti Suzuki Model 5,980197.13,Electric,Automatic,Silver,Sedan,2
+6,Maruti Suzuki Model 6,2596591.42,Diesel,Automatic,White,MPV,3
+7,Maruti Suzuki Model 7,619750.26,Petrol,Manual,Red,Sedan,5
+8,Maruti Suzuki Model 8,2100463.06,Electric,Manual,Blue,SUV,1
+9,Maruti Suzuki Model 9,2767918.15,Diesel,Automatic,Red,Hatchback,9
+10,Maruti Suzuki Model 10,1113154.01,Diesel,Automatic,Black,Hatchback,8
+11,Maruti Suzuki Model 11,1481332.74,Diesel,Automatic,Grey,SUV,3
+12,Maruti Suzuki Model 12,1755742.59,Hybrid,Automatic,Silver,Sedan,6
+13,Maruti Suzuki Model 13,1974222.61,Electric,Automatic,White,SUV,1
+14,Maruti Suzuki Model 14,465219.18,Diesel,Automatic,Red,Hatchback,8
+15,Maruti Suzuki Model 15,437105.84,Diesel,Manual,Black,Sedan,5
+16,Maruti Suzuki Model 16,813398.4,Diesel,Manual,Silver,MPV,9
+17,Maruti Suzuki Model 17,1083894.49,Electric,Manual,Black,Sedan,8
+18,Maruti Suzuki Model 18,850389.79,Petrol,Automatic,White,MPV,6
+19,Maruti Suzuki Model 19,2387853.95,Diesel,Manual,Silver,Hatchback,5
+20,Maruti Suzuki Model 20,2481088.21,Hybrid,Manual,Black,SUV,8
+21,Hyundai Model 1,805274.35,Petrol,Manual,Silver,Sedan,9
+22,Hyundai Model 2,1524498.82,Electric,Manual,White,MPV,4
+23,Hyundai Model 3,1058456.74,Petrol,Automatic,Grey,SUV,2
+24,Hyundai Model 4,1795172.06,Petrol,Automatic,Silver,SUV,3
+25,Hyundai Model 5,1278334.08,Electric,Manual,Silver,Sedan,2
+26,Hyundai Model 6,806122.02,Diesel,Automatic,Black,Sedan,4
+27,Hyundai Model 7,2748361.9,Diesel,Manual,Red,Hatchback,1
+28,Hyundai Model 8,2793890.36,Electric,Automatic,Grey,SUV,10
+29,Hyundai Model 9,545942.11,Hybrid,Automatic,Blue,MPV,3
+30,Hyundai Model 10,860573.03,Hybrid,Automatic,Blue,Sedan,7
+31,Hyundai Model 11,840690.75,Diesel,Manual,Silver,Hatchback,1
+32,Hyundai Model 12,2210988.34,Hybrid,Automatic,Red,MPV,7
+33,Hyundai Model 13,782115.37,Electric,Manual,Silver,MPV,5
+34,Hyundai Model 14,721589.14,Hybrid,Manual,White,MPV,2
+35,Hyundai Model 15,2911905.06,Hybrid,Automatic,Blue,Sedan,10
+36,Hyundai Model 16,1603223.2,Electric,Manual,Black,Sedan,3
+37,Hyundai Model 17,1412724.57,Petrol,Automatic,White,Hatchback,4
+38,Hyundai Model 18,404294.27,Electric,Manual,White,MPV,8
+39,Hyundai Model 19,788759.74,Electric,Automatic,Red,MPV,4
+40,Hyundai Model 20,674187.61,Diesel,Automatic,Blue,Sedan,4
+41,Tata Motors Model 1,512791.01,Hybrid,Manual,Silver,MPV,9
+42,Tata Motors Model 2,1616046.39,Electric,Manual,Silver,SUV,8
+43,Tata Motors Model 3,1877853.74,Petrol,Automatic,Grey,SUV,6
+44,Tata Motors Model 4,2336885.0,Diesel,Manual,Grey,SUV,1
+45,Tata Motors Model 5,2769724.14,Petrol,Automatic,Blue,SUV,6
+46,Tata Motors Model 6,2180291.47,Diesel,Automatic,White,Sedan,7
+47,Tata Motors Model 7,864887.47,Electric,Manual,Blue,MPV,5
+48,Tata Motors Model 8,1056575.79,Hybrid,Manual,Black,Sedan,10
+49,Tata Motors Model 9,1227824.64,Diesel,Manual,Black,SUV,5
+50,Tata Motors Model 10,1400069.58,Hybrid,Manual,Red,Sedan,6
+51,Tata Motors Model 11,997367.01,Petrol,Manual,Blue,Hatchback,8
+52,Tata Motors Model 12,1753293.36,Diesel,Manual,Black,Sedan,9
+53,Tata Motors Model 13,1982154.46,Hybrid,Manual,Silver,MPV,2
+54,Tata Motors Model 14,1851364.41,Electric,Automatic,White,Hatchback,7
+55,Tata Motors Model 15,2010857.4,Hybrid,Automatic,Grey,MPV,2
+56,Tata Motors Model 16,2858659.45,Diesel,Manual,White,MPV,2
+57,Tata Motors Model 17,743253.76,Electric,Manual,Black,MPV,5
+58,Tata Motors Model 18,2225868.68,Hybrid,Manual,White,Sedan,3
+59,Tata Motors Model 19,652085.76,Diesel,Automatic,Red,SUV,1
+60,Tata Motors Model 20,697353.21,Electric,Manual,White,Hatchback,5
+61,Mahindra Model 1,1544686.79,Petrol,Automatic,Blue,Hatchback,7
+62,Mahindra Model 2,828681.54,Hybrid,Automatic,Red,MPV,4
+63,Mahindra Model 3,1462098.36,Electric,Automatic,Red,SUV,1
+64,Mahindra Model 4,1124971.59,Diesel,Automatic,Blue,Hatchback,10
+65,Mahindra Model 5,2926860.52,Petrol,Manual,Blue,Sedan,3
+66,Mahindra Model 6,2547746.33,Diesel,Automatic,White,MPV,7
+67,Mahindra Model 7,1339791.31,Hybrid,Manual,Red,Sedan,10
+68,Mahindra Model 8,2311816.05,Diesel,Automatic,Silver,MPV,8
+69,Mahindra Model 9,1012812.38,Petrol,Manual,Silver,SUV,8
+70,Mahindra Model 10,844794.92,Petrol,Manual,Black,SUV,10
+71,Mahindra Model 11,2288166.63,Petrol,Manual,Blue,Sedan,3
+72,Mahindra Model 12,1597395.96,Diesel,Automatic,Grey,Hatchback,1
+73,Mahindra Model 13,1752421.2,Diesel,Automatic,Blue,SUV,5
+74,Mahindra Model 14,965372.91,Hybrid,Automatic,Red,Hatchback,2
+75,Mahindra Model 15,1746424.78,Electric,Automatic,Blue,MPV,8
+76,Mahindra Model 16,877529.77,Electric,Manual,Black,Hatchback,2
+77,Mahindra Model 17,1942792.92,Hybrid,Manual,White,MPV,9
+78,Mahindra Model 18,1981851.39,Petrol,Manual,Grey,SUV,8
+79,Mahindra Model 19,820483.51,Electric,Automatic,Blue,MPV,4
+80,Mahindra Model 20,1171740.52,Electric,Automatic,Blue,SUV,7
+81,Honda Model 1,1689362.64,Diesel,Automatic,White,SUV,7
+82,Honda Model 2,411396.53,Electric,Automatic,Blue,MPV,4
+83,Honda Model 3,2092838.03,Petrol,Automatic,Silver,MPV,9
+84,Honda Model 4,1019480.31,Hybrid,Automatic,Silver,SUV,8
+85,Honda Model 5,2206835.44,Hybrid,Automatic,White,Hatchback,5
+86,Honda Model 6,1935145.0,Hybrid,Manual,White,MPV,3
+87,Honda Model 7,1362191.16,Hybrid,Manual,Blue,SUV,7
+88,Honda Model 8,2426188.29,Petrol,Automatic,Red,Hatchback,4
+89,Honda Model 9,1387155.41,Petrol,Manual,Red,SUV,6
+90,Honda Model 10,1135577.69,Petrol,Automatic,Red,SUV,8
+91,Honda Model 11,2905292.51,Diesel,Manual,Black,Sedan,5
+92,Honda Model 12,2654141.0,Hybrid,Manual,White,SUV,9
+93,Honda Model 13,582967.98,Diesel,Manual,Grey,Hatchback,9
+94,Honda Model 14,765978.52,Hybrid,Automatic,Grey,MPV,10
+95,Honda Model 15,1037085.06,Diesel,Manual,Silver,Sedan,6
+96,Honda Model 16,1304809.52,Hybrid,Manual,Silver,Sedan,10
+97,Honda Model 17,1969061.83,Electric,Automatic,Black,Sedan,2
+98,Honda Model 18,2634596.81,Diesel,Automatic,Silver,MPV,6
+99,Honda Model 19,1160818.33,Petrol,Automatic,Silver,MPV,3
+100,Honda Model 20,985947.75,Hybrid,Manual,Blue,Hatchback,4
+101,Toyota Model 1,2088173.1,Petrol,Manual,Silver,MPV,8
+102,Toyota Model 2,1287796.1,Electric,Manual,Blue,Hatchback,5
+103,Toyota Model 3,1778064.48,Diesel,Automatic,Grey,MPV,2
+104,Toyota Model 4,2948411.87,Petrol,Automatic,Blue,Sedan,5
+105,Toyota Model 5,2993258.89,Diesel,Manual,Silver,Sedan,1
+106,Toyota Model 6,1867653.8,Diesel,Manual,Silver,MPV,1
+107,Toyota Model 7,2571535.09,Petrol,Manual,Blue,Hatchback,5
+108,Toyota Model 8,1042374.44,Electric,Automatic,Silver,SUV,1
+109,Toyota Model 9,2603617.93,Diesel,Automatic,Red,MPV,3
+110,Toyota Model 10,548957.69,Hybrid,Automatic,Silver,Sedan,7
+111,Toyota Model 11,1565075.22,Diesel,Manual,Grey,Sedan,4
+112,Toyota Model 12,1191336.82,Petrol,Manual,Red,SUV,1
+113,Toyota Model 13,2560089.6,Electric,Manual,Black,Sedan,5
+114,Toyota Model 14,2947938.83,Electric,Automatic,Black,Sedan,10
+115,Toyota Model 15,791679.37,Electric,Automatic,Silver,Hatchback,8
+116,Toyota Model 16,2477815.39,Hybrid,Automatic,Black,SUV,9
+117,Toyota Model 17,608524.6,Hybrid,Manual,Blue,SUV,4
+118,Toyota Model 18,2714185.98,Electric,Manual,Grey,SUV,10
+119,Toyota Model 19,1494678.48,Electric,Automatic,Red,Sedan,2
+120,Toyota Model 20,2677114.91,Diesel,Manual,Grey,Hatchback,6
+121,Kia Model 1,2435862.9,Electric,Manual,Grey,Hatchback,9
+122,Kia Model 2,2127288.23,Diesel,Automatic,Red,SUV,6
+123,Kia Model 3,728416.27,Electric,Manual,Silver,MPV,1
+124,Kia Model 4,2502025.14,Hybrid,Manual,Grey,Sedan,9
+125,Kia Model 5,1377912.49,Diesel,Manual,Black,MPV,8
+126,Kia Model 6,863640.01,Hybrid,Automatic,Black,Hatchback,7
+127,Kia Model 7,837116.31,Diesel,Automatic,White,MPV,9
+128,Kia Model 8,2327465.42,Petrol,Automatic,Black,MPV,7
+129,Kia Model 9,1576471.86,Hybrid,Manual,White,Sedan,9
+130,Kia Model 10,2322830.52,Hybrid,Automatic,Black,Hatchback,9
+131,Kia Model 11,2170965.93,Diesel,Manual,Red,Sedan,4
+132,Kia Model 12,2487582.82,Hybrid,Manual,Black,Sedan,7
+133,Kia Model 13,2925651.52,Diesel,Automatic,Black,MPV,9
+134,Kia Model 14,2204853.26,Petrol,Automatic,Blue,MPV,10
+135,Kia Model 15,1236985.95,Electric,Manual,Silver,SUV,6
+136,Kia Model 16,2839055.4,Diesel,Manual,White,Sedan,1
+137,Kia Model 17,2777360.42,Diesel,Manual,Grey,Sedan,9
+138,Kia Model 18,1265066.99,Hybrid,Automatic,Red,SUV,5
+139,Kia Model 19,2760814.59,Petrol,Manual,White,Hatchback,2
+140,Kia Model 20,1816550.05,Petrol,Automatic,Silver,MPV,4
+141,Renault Model 1,2960795.68,Petrol,Automatic,Red,Sedan,6
+142,Renault Model 2,1678548.15,Electric,Automatic,White,Hatchback,7
+143,Renault Model 3,1188424.89,Electric,Automatic,Red,SUV,5
+144,Renault Model 4,2414724.06,Petrol,Automatic,Silver,MPV,10
+145,Renault Model 5,1708773.64,Petrol,Automatic,White,Hatchback,3
+146,Renault Model 6,1722890.58,Hybrid,Automatic,Black,Sedan,2
+147,Renault Model 7,2883773.05,Hybrid,Manual,Blue,Hatchback,2
+148,Renault Model 8,600455.44,Electric,Automatic,White,Sedan,4
+149,Renault Model 9,461319.31,Petrol,Automatic,Grey,SUV,1
+150,Renault Model 10,861961.92,Hybrid,Manual,Black,Hatchback,4
+151,Renault Model 11,1207873.2,Electric,Automatic,Silver,MPV,2
+152,Renault Model 12,1808457.66,Petrol,Automatic,Red,SUV,3
+153,Renault Model 13,1709104.53,Electric,Manual,Grey,Hatchback,6
+154,Renault Model 14,798443.81,Hybrid,Manual,Red,SUV,1
+155,Renault Model 15,880247.66,Electric,Automatic,White,MPV,5
+156,Renault Model 16,1614594.3,Petrol,Automatic,Grey,Sedan,3
+157,Renault Model 17,2332385.77,Hybrid,Automatic,White,SUV,4
+158,Renault Model 18,2516005.29,Electric,Manual,Grey,Hatchback,9
+159,Renault Model 19,1132186.02,Hybrid,Manual,Grey,Hatchback,2
+160,Renault Model 20,799234.1,Electric,Manual,Black,Hatchback,2
+161,Skoda Model 1,1208548.39,Diesel,Manual,Silver,MPV,3
+162,Skoda Model 2,2419465.35,Diesel,Manual,Grey,Sedan,3
+163,Skoda Model 3,1880799.77,Hybrid,Automatic,Red,Hatchback,10
+164,Skoda Model 4,1588566.56,Petrol,Automatic,Black,SUV,10
+165,Skoda Model 5,842350.58,Petrol,Automatic,Blue,SUV,8
+166,Skoda Model 6,2474769.23,Hybrid,Automatic,White,Hatchback,10
+167,Skoda Model 7,937967.48,Diesel,Manual,Blue,MPV,8
+168,Skoda Model 8,490877.61,Electric,Automatic,Silver,MPV,8
+169,Skoda Model 9,2068658.13,Hybrid,Automatic,Blue,Sedan,3
+170,Skoda Model 10,2766221.89,Petrol,Automatic,Grey,SUV,5
+171,Skoda Model 11,978754.12,Electric,Automatic,White,Hatchback,10
+172,Skoda Model 12,1865256.38,Hybrid,Automatic,White,Sedan,8
+173,Skoda Model 13,668483.56,Electric,Automatic,Blue,Sedan,2
+174,Skoda Model 14,2719540.47,Hybrid,Manual,Blue,MPV,2
+175,Skoda Model 15,1696349.56,Diesel,Manual,Grey,Sedan,7
+176,Skoda Model 16,1087768.46,Petrol,Manual,Black,MPV,9
+177,Skoda Model 17,2552277.26,Hybrid,Automatic,White,Sedan,7
+178,Skoda Model 18,1957795.69,Electric,Automatic,Silver,SUV,4
+179,Skoda Model 19,2664182.19,Petrol,Manual,Black,Hatchback,7
+180,Skoda Model 20,2252386.92,Electric,Automatic,Grey,Sedan,9
+181,Volkswagen Model 1,2967829.17,Electric,Manual,Grey,Hatchback,9
+182,Volkswagen Model 2,2949431.88,Hybrid,Automatic,White,SUV,3
+183,Volkswagen Model 3,2382001.48,Diesel,Automatic,Black,Sedan,8
+184,Volkswagen Model 4,819391.4,Electric,Automatic,White,SUV,1
+185,Volkswagen Model 5,2968414.91,Petrol,Manual,Silver,Hatchback,8
+186,Volkswagen Model 6,1675514.92,Electric,Manual,Silver,SUV,9
+187,Volkswagen Model 7,2933694.08,Electric,Automatic,White,MPV,7
+188,Volkswagen Model 8,2841094.0,Electric,Automatic,Silver,Hatchback,8
+189,Volkswagen Model 9,2589316.14,Electric,Automatic,Blue,SUV,8
+190,Volkswagen Model 10,1703011.85,Electric,Automatic,Red,MPV,3
+191,Volkswagen Model 11,1855771.15,Hybrid,Automatic,Red,Sedan,6
+192,Volkswagen Model 12,1029132.31,Petrol,Manual,Black,Hatchback,1
+193,Volkswagen Model 13,1088418.57,Petrol,Manual,Blue,Hatchback,9
+194,Volkswagen Model 14,2991434.74,Petrol,Manual,White,Hatchback,10
+195,Volkswagen Model 15,903044.57,Electric,Automatic,White,SUV,5
+196,Volkswagen Model 16,1660556.95,Hybrid,Automatic,White,Hatchback,9
+197,Volkswagen Model 17,2377930.04,Electric,Manual,Grey,Sedan,8
+198,Volkswagen Model 18,1591725.18,Diesel,Manual,Blue,Hatchback,8
+199,Volkswagen Model 19,2058848.44,Petrol,Manual,White,Sedan,8
+200,Volkswagen Model 20,2992018.11,Petrol,Manual,Grey,SUV,3
