@@ -39,7 +39,7 @@ This is a relational database model:
 
 -All files are in CSV format and can be easily imported into any RDBMS (e.g., MySQL, PostgreSQL, SQLite).
 
-#Possible Extensions
+# Possible Extensions
 -Add dealer rating or customer feedback mechanisms.
 
 -Build a dashboard using tools like Power BI, Tableau, or Python libraries (Plotly, Dash).
